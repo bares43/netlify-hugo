@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: Bares/netlify-hugo # Path to your Github repository
+  repo: bares43/netlify-hugo # Path to your Github repository
   branch: master # Branch to update
 
 media_folder: "images/uploads"
